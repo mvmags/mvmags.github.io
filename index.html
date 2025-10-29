@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Marco Velasco Martinez - profile</title>
+  <style>
+    :root {
+      --bg: #f6f7f9;
+      --card: #ffffff;
+      --text: #1f2937;
+      --muted: #6b7280;
+      --ring: #3b82f6;
+      --radius: 16px;
+      --shadow: 0 1px 2px rgba(0,0,0,0.05), 0 6px 20px rgba(0,0,0,0.06);
+      --gap: 1rem;
+      --maxw: 1200px;
+      --stickyTop: 16px;
+    }
+
+    * { box-sizing: border-box; }
+    html, body { height: 100%; }
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial, "Noto Sans";
+      color: var(--text);
+      background: var(--bg);
+      line-height: 1.45;
+    }
+
+    .page { max-width: var(--maxw); margin: 0 auto; padding: 24px 16px 56px; display: grid; gap: var(--gap); }
+
+    .layout { display: grid; grid-template-columns: 1fr; gap: var(--gap); }
+    @media (min-width: 1024px) { .layout { grid-template-columns: 340px 1fr; align-items: start; } }
+
+    .sidebar { display: grid; grid-template-rows: auto 1fr; gap: var(--gap); }
+    /* Make the menu sticky on desktop */
+    @media (min-width: 1024px) {
+      .menuSticky { position: sticky; top: var(--stickyTop); align-self: start; }
+    }
+
+    .card { background: var(--card); border-radius: var(--radius); box-shadow: var(--shadow); overflow: clip; }
+
+    .photoHeader { position: relative; min-height: 150px; background: linear-gradient(135deg, #e5e7eb, #f3f4f6); }
+    .photoHeader .profile { position: absolute; left: 16px; bottom: 12px; display: flex; align-items: end; gap: 12px; }
+    .photoHeader img { width: 88px; height: 88px; object-fit: cover; border-radius: 18px; border: 4px solid #fff; box-shadow: var(--shadow); background: #ddd; }
+    .photoHeader .meta { padding-bottom: 6px; }
+    .photoHeader .meta .name { font-weight: 700; }
+    .photoHeader .meta .role { font-size: 0.9rem; color: var(--muted); }
+
+    details { border-bottom: 1px solid #f0f2f5; }
+    summary { list-style: none; cursor: pointer; padding: 14px 16px; font-weight: 600; position: relative; outline: none; }
+    summary::marker { display: none; }
+    summary::after { content: "›"; position: absolute; right: 16px; transform: rotate(90deg); transition: transform 160ms ease-out; opacity: 0.6; }
+    details[open] > summary::after { transform: rotate(270deg); }
+
+    .accordionContent { padding: 0 16px 14px 16px; }
+    .menuList { display: grid; gap: 6px; padding: 8px 0 10px; }
+    .menuList a { text-decoration: none; color: var(--text); padding: 8px 10px; border-radius: 10px; display: block; }
+    .menuList a:hover { background: #f3f4f6; }
+    .menuList a.active { background: #eef2ff; color: #1d4ed8; font-weight: 600; }
+
+    .contentCard { padding: 0; }
+    .contentShell { padding: 10px 16px 18px; min-height: 300px; }
+    .contentShell h2 { margin: 0 0 8px; }
+    .contentShell p { margin: 0 0 10px; }
+    .contentShell ul { margin: 8px 0 10px 18px; }
+
+    /* Fade transition */
+    .fade-enter { opacity: 0; transform: translateY(4px); }
+    .fade-enter-active { opacity: 1; transform: translateY(0); transition: opacity 180ms ease-out, transform 180ms ease-out; }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <header class="topbar">
+      <h1>Career profile</h1>
+    </header>
+
+    <section class="layout" aria-label="Page layout">
+      <!-- LEFT COLUMN -->
+      <aside class="sidebar">
+        <article class="card photoHeader">
+          <div class="profile">
+            <img src="https://raw.githubusercontent.com/mvmags/resources/main/pics/Marco.png" alt="Profile photo" />
+            <div class="meta">
+              <div class="name">Marco Velasco Martinez</div>
+              <div class="role">www.linkedin.com/in/marcovelmtz</div>
+              <div class="role">marco.velasco@gmail.com</div>
+            </div>
+          </div>
+        </article>
+
+        <nav class="card menuSticky" aria-label="Menu">
+          <details class="accordion" open>
+            <summary>Profile</summary>
+            <div class="accordionContent">
+              <div class="menuList" id="menu-list">
+                <a href="#about-me" data-section="about-me">About Me</a>
+                <a href="#skills" data-section="skills">Skills</a>
+                <a href="#experience" data-section="experience">Experience</a>
+              </div>
+            </div>
+          </details>
+
+          <!-- Projects -->
+          <details class="accordion">
+            <summary>Projects</summary>
+            <div class="accordionContent">
+              <div class="menuList">
+                <a href="#project-portfolio" data-section="project-portfolio">Portfolio</a>
+                <a href="#case-studies" data-section="case-studies">Case Studies</a>
+              </div>
+            </div>
+          </details>
+
+          <!-- Resources -->
+          <details class="accordion">
+            <summary>More</summary>
+            <div class="accordionContent">
+              <div class="menuList">
+                <a href="#resources" data-section="resources">Resources</a>
+              </div>
+            </div>
+          </details>
+        </nav>
+      </aside>
+
+      <!-- RIGHT COLUMN -->
+      <main>
+        <article class="card contentCard" aria-live="polite" aria-busy="false">
+          <div id="content" class="contentShell" tabindex="-1"></div>
+        </article>
+      </main>
+    </section>
+  </div>
+
+  <script>
+    // --- OPTIONAL: Load a content index JSON to override the inline registry ---
+    // Place a file at /content/index.json with keys matching section IDs, e.g.:
+    // {
+    //   "about-me": "/content/about-me.html",
+    //   "skills": "/content/skills.html"
+    // }
+
+    // Inline fallback content registry
+    const INLINE_CONTENT = {
+      'about-me': `
+        <section>
+          <h2>About Me</h2>
+          <p>Not found</p>
+        </section>
+      `,
+      'skills': `
+        <section>
+          <h2>Skills</h2>
+          <ul>
+            <li><strong>Languages:</strong> ...</li>
+            <li><strong>Frameworks:</strong> ...</li>
+            <li><strong>Data:</strong> ...</li>
+            <li><strong>DevOps:</strong> ...</li>
+          </ul>
+        </section>
+      `,
+      'experience': `
+        <section>
+          <h2>Experience</h2>
+          <p>...</p>
+        </section>
+      `,
+      'project-portfolio': `
+        <section>
+          <h2>Project Portfolio</h2>
+          <ul>
+            <li>Analytics Dashboard — Interactive charts, role‑based access, exportable reports.</li>
+            <li>E‑Learning Platform — Custom player, spaced‑repetition drills, educator tools.</li>
+            <li>IoT Status Board — Real‑time device telemetry with WebSockets.</li>
+          </ul>
+        </section>
+      `,
+      'case-studies': `
+        <section>
+          <h2>Case Studies</h2>
+          <p><strong>Scaling a REST API to 10× traffic:</strong> Introduced caching layers, async queues, and database indexes, reducing p95 latency by 62%.</p>
+          <p><strong>Front‑end performance overhaul:</strong> Code‑splitting and SSR cuts first contentful paint by ~40% on mid‑range devices.</p>
+        </section>
+      `
+    };
+
+    // If a content index exists, we will store mappings from id -> URL here
+    let externalIndex = null;
+
+    async function tryLoadIndex() {
+      try {
+        const res = await fetch('/content/index.json', { cache: 'no-store' });
+        if (res.ok) {
+          externalIndex = await res.json();
+        }
+      } catch (e) {
+        // ignore if not found
+      }
+    }
+
+    async function loadExternalHtml(url) {
+      const res = await fetch(url, { cache: 'no-store' });
+      if (!res.ok) throw new Error('HTTP ' + res.status);
+      return await res.text();
+    }
+
+    const contentEl = document.getElementById('content');
+
+    function setBusy(busy) {
+      const card = contentEl.closest('[aria-live]');
+      if (card) card.setAttribute('aria-busy', String(busy));
+    }
+
+    async function renderSection(id, { push = true } = {}) {
+      setBusy(true);
+      let html = '';
+      // 1) If index.json maps this id, fetch that file; 2) else try /content/<id>.html; 3) fallback to inline
+      if (externalIndex && externalIndex[id]) {
+        try { html = await loadExternalHtml(externalIndex[id]); } catch {}
+      }
+      if (!html) {
+        try { html = await loadExternalHtml(`/content/${id}.html`); } catch {}
+      }
+      if (!html) {
+        html = INLINE_CONTENT[id] || `<section><h2>Not found</h2><p>No content for “${id}”.</p></section>`;
+      }
+
+      // Swap content with fade-in
+      contentEl.classList.remove('fade-enter', 'fade-enter-active');
+      contentEl.innerHTML = html;
+
+      // Active link state
+      document.querySelectorAll('.menuList a').forEach(a => a.classList.toggle('active', a.dataset.section === id));
+
+      // Update URL hash
+      if (push) {
+        const newUrl = `${location.pathname}${location.search}#${id}`;
+        history.pushState({ id }, '', newUrl);
+      }
+
+      // Animate + focus
+      requestAnimationFrame(() => {
+        contentEl.classList.add('fade-enter');
+        requestAnimationFrame(() => {
+          contentEl.classList.add('fade-enter-active');
+          setBusy(false);
+          contentEl.focus({ preventScroll: true });
+        });
+      });
+    }
+
+    // Event delegation for menu clicks
+    document.addEventListener('click', (e) => {
+      const link = e.target.closest('a[data-section]');
+      if (!link) return;
+      const id = link.getAttribute('data-section');
+      if (!id) return;
+      e.preventDefault();
+      renderSection(id, { push: true });
+    });
+
+    // Left accordion: allow only one open at a time
+    document.querySelectorAll('nav.details, nav .accordion').forEach(() => {}); // no-op for older markup
+    const leftAccordions = Array.from(document.querySelectorAll('nav .accordion'));
+    leftAccordions.forEach(d => {
+      const summary = d.querySelector('summary');
+      if (!summary) return;
+      summary.addEventListener('click', () => {
+        // Use setTimeout to run after the browser toggles the current <details>
+        setTimeout(() => {
+          if (!d.open) return; // only react when this one was just opened
+          leftAccordions.forEach(other => { if (other !== d && other.open) other.open = false; });
+        }, 0);
+      });
+    });
+
+    // Support browser navigation buttons
+    window.addEventListener('popstate', (e) => {
+      const id = (e.state && e.state.id) || location.hash.replace('#','') || 'about-me';
+      renderSection(id, { push: false });
+    });
+
+    // Initial boot: try to load index, then render initial section
+    (async () => {
+      await tryLoadIndex();
+      const initial = location.hash.replace('#','') || 'about-me';
+      renderSection(initial, { push: false });
+    })();
+  </script>
+</body>
+</html>

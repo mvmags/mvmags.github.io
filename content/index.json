@@ -1,0 +1,7 @@
+{
+  "about-me": "./content/about-me.html",
+  "skills": "/content/skills.html",
+  "experience": "/content/experience.html",
+  "project-portfolio": "/content/project-portfolio.html",
+  "case-studies": "/content/case-studies.html"
+}
