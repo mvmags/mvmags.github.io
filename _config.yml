@@ -1,0 +1,13 @@
+title: "Marco Velasco Martínez"
+description: "Software Engineer — CV, projects, and contact."
+url: "https://mvmags.github.io"
+baseurl: ""  # user sites use root
+
+# Use GitHub's official 'Minimal' theme via remote_theme
+remote_theme: pages-themes/minimal
+plugins:
+  - jekyll-remote-theme
+
+# Optional site settings that the theme can show
+logo: /assets/img/avatar.png   # add when you have one
+show_downloads: false
