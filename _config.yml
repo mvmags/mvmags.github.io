@@ -1,4 +1,4 @@
-title: "Marco Velasco Martínez"
+title: ""
 description: "Software Engineer, Backend Applications Developer, Systems Integrator, Java Engineer"
 url: "https://mvmags.github.io"
 baseurl: ""  # user sites use root
@@ -11,3 +11,10 @@ plugins:
 # Optional site settings that the theme can show
 logo: https://raw.githubusercontent.com/mvmags/resources/main/pics/Marco.png   # add when you have one
 show_downloads: false
+
+# Simple header links (Minimal shows these)
+navigation:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
