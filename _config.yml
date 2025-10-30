@@ -1,0 +1,26 @@
+# Basic site metadata
+title: "Marco Velasco Martínez"
+description: "Software Engineer, Systems Integrator"
+url: "https://mvmags.github.io"
+
+# Enable GitHub Pages-supported plugin
+plugins:
+  - jekyll-remote-theme
+
+# Point to your fork as the remote theme
+remote_theme: mvmags/jekyll-cv
+
+# (Optional) if the theme expects these:
+# theme settings (replace keys to match the theme's docs if different)
+lang: en
+timezone: America/Phoenix
+
+# Social / contact (adjust to your info)
+email: "marco.velasco@gmail.com"
+linkedin_username: "marco-velascomartinez"
+github_username: "mvmags"
+
+# If the theme supports data-driven sections, you can also add:
+# collections:
+#   projects:
+#     output: true
