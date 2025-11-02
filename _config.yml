@@ -4,7 +4,7 @@ url: ""
 baseurl: ""  # user sites use root
 
 # Use GitHub's official 'Minimal' theme via remote_theme
-remote_theme: mvmags/resume-minimal
+remote_theme: mvmags/resume
 plugins:
   - jekyll-remote-theme
 
