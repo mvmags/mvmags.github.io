@@ -1,10 +1,10 @@
-title: "Career Profile"
+title: ""
 description: "Software Engineer, Backend Applications Developer, Systems Integrator, Java Engineer"
 url: ""
 baseurl: ""  # user sites use root
 
 # Use GitHub's official 'Minimal' theme via remote_theme
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: mvmags/resume-minimal
 plugins:
   - jekyll-remote-theme
 
