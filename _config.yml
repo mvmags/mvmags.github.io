@@ -1,20 +1,14 @@
-title: ""
+title: "Career Profile"
 description: "Software Engineer, Backend Applications Developer, Systems Integrator, Java Engineer"
-url: "https://mvmags.github.io"
+url: ""
 baseurl: ""  # user sites use root
 
 # Use GitHub's official 'Minimal' theme via remote_theme
-remote_theme: pages-themes/minimal
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
 
 # Optional site settings that the theme can show
 logo: https://raw.githubusercontent.com/mvmags/resources/main/pics/Marco.png   # add when you have one
 show_downloads: false
-
-# Simple header links (Minimal shows these)
-navigation:
-  - title: Home
-    url: /
-  - title: About
-    url: /about
+google_analytics: G-DX96TSN3D3
