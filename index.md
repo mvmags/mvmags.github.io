@@ -8,6 +8,17 @@ layout: default
 
 # Marco Velasco Martinez
 
+---
+
+[marco.velasco@gmail.com](mailto:marco.velasco@gmail.com)
+
+[www.linkedin.com/in/marco-velascomartinez]([mailto:marco.velasco@gmail.com](https://www.linkedin.com/in/marco-velascomartinez))
+
+United States / Mexico 
+
+
+---
+
 Senior Software Engineer with 15+ years of experience implementing and delivering software solutions in the healthcare, fintech, and other fields. Lately focused on Node.js, and some AWS services. Experience during my career working with Java, building distributed data pipelines, microservices, and CI/CD automation; proven success working remotely among a distributed agile team. During my career, I’ve used multiple technologies, with varying levels of proficiency and understanding, which I list next.
 
 ## Industry focus
@@ -26,19 +37,11 @@ During my career, the projects that I have worked with are related to the indust
 
 **Methodologies:** Agile/Scrum, CI/CD, Microservices, Event-Driven Architecture
 
-## Key achievements
-
-- During 2024-2025 I re-wrote most of the existing code that does the work to copy files from an AWS S3 source from basic javascript and old AWS SDK to a newer version of Javascript AWS SDK, including making it more generic for easy integration with other code modules.
-- From 2022 through 2025, I collaborated closely with the new design, architecture, and re-implementation of an already existing Java-based system.
-- In 2015, I had the opportunity to lead the creation of a new development team (6 developers), where I played a part in interviewing the candidates and deciding who to join the new team. During the time together, this team sure faced challenges, but I can proudly say it performed really good.
-- During 2014, while working onsite on San Antonio Texas, I worked closely in collaboration with a team located in India were despite of challenges in the communication we were able to support and maintain an ETL system that needed continuous monitoring and execution to supply with current info to the web portal that the end user had access to, I played the role of onsite contact and developer to help the team solve questions, unblock issues, etc.
-- From 2012 to 2013, I was promoted to the application leader for the project I was working on. I had the opportunity to work closely with the client and played a part in leading the teamwork.
-
 ---
 
 ## A little bit about myself
 
-I'm a mexican native, I was born and raised in the Aguascalientes state of Mexico, I started early with the world of computers during middle school time when a door to door salesman knocked out at our house door to sell a brand new course about how to use computers and devices, I got immediately interested on it and for sure I got enrolled in the course, it turned out to be a a very basic course basically to learn how to properly type in the keyboard and use some applications, and also learn to make use of the scanner (which to be honest it was the most interest part of the course), from then on I continued to get involved in learning everything I could about computers, languages, during middle school and high school I learned to code in Fox Pro, Turbo Pascal, Borland Pascal, started to understand concepts of databases with Microsoft Access and apps related. During my University time, I gained interest in learning about networks, while at the same time learning, I'd say old languages like Assembly Language, and then I started to learn how to code in Java, until the internet disrupted everything.
+I'm a mexican native, I was born and raised in Mexico, I started early with the world of computers during middle school time when a door to door salesman knocked out at our house door to sell a brand new course about how to use computers and devices, I got immediately interested on it and for sure I got enrolled in the course, it turned out to be a a very basic course basically to learn how to properly type in the keyboard and use some applications, and also learn to make use of the scanner (which to be honest it was the most interest part of the course), from then on I continued to get involved in learning everything I could about computers, languages, during middle school and high school I learned to code in Fox Pro, Turbo Pascal, Borland Pascal, started to understand concepts of databases with Microsoft Access and apps related. During my University time, I gained interest in learning about networks, while at the same time learning, I'd say old languages like Assembly Language, and then I started to learn how to code in Java, until the internet disrupted everything.
 
 While studying at the University, I started my own business (Coffee Internet) along with my sister and a cousin. We sold devices and assembled computers (we bought parts separately and assembled them into a new computer). During my early jobs, I had roles like business owner, desk support, developer, web developer, along with a family side that dragged me into playing roles in the family business of restaurant, agriculture, and others.
 
@@ -51,16 +54,12 @@ After finishing college, I moved to a new job, which marked the start of my form
 **Foundation Medicine** | *www.foundationmedicine.com/*
 May 2022 - Present | _Software Engineer_ | Full remote Phoenix, Arizona, United States
 
-_Company Type:_ Healthcare
+_Industry:_ Healthcare
 
 _Team size:_ 6-7 (including Developers, Tester, Product Owner, Technical Leader)
 
 - Implementation of enterprise-scale report delivery platform on AWS using Node.js, Kafka, and Docker. I play part on the team that worked to re-architect and migrate the whole report delivery platfrom from a Java, ActiveMq and others stack to Node.js, Kafka, AWS, which notably improved the efficiency for deployments and development, also allowed for a more flexible, scalable and customizable reporting infrastructure, it reduced the report generation error fixing from days to minutes, the customer support became more prompt and easy.
 - Collaborate with cross-functional teams to enhance platform observability and CI/CD automation (Logz.io, Jenkins, SonarQube).
-
-**Challenges, problems**
-
-
 
 ---
 
@@ -69,7 +68,7 @@ Sep 2019 - May 2022 | _Java Software Engineer_ | Remote Consultant Guadalajara A
 
 _Client:_ Foundation Medicine
 
-_Type:_ Healthcare
+_Industry:_ Healthcare
 
 _Team size:_ 6-7 (including Developers, Testers, Product Owner, Technical leader)
  
@@ -84,7 +83,7 @@ Aug 2016 - Sep 2019 | Java Software Engineer | Consultant Aguascalientes Area, M
 
 _Clients:_ Kobie Marketing, Maritz Rewards
 
-_Type:_ Loyalty Management Platform Provider
+_Industry:_ Loyalty Management Platform Provider
 
 _Team size:_ 8-9 (including Developers, Tester, Product Owner, Team Leader, Business Analyst, Architect)
  
@@ -99,7 +98,7 @@ May 2013 - Aug 2016 | Java Software Developer | Consultant Guadalajara Area, Mex
 
 _Client:_ USAA Bank
 
-_Type:_ Banking
+_Industry:_ Banking
 
 _Team size:_ 6 (including Developers, Tester, Team Leader)
  
@@ -112,7 +111,7 @@ Jul 2010 - May 2013 | Java Application Developer | Consultant Aguascalientes Are
 
 _Client:_ General Electric Corporate
 
-_Type:_ Industrial Technology and Manufacturing Corporation
+_Industry:_ Technology and Manufacturing
 
 _Team size:_ 6 (including Developers, Tester, Team Leader)
  
@@ -123,7 +122,7 @@ _Team size:_ 6 (including Developers, Tester, Team Leader)
 **INEGI** | *www.inegi.org.mx/*
 Feb 2009 - Jul 2010 | Software Developer | Onsite Aguascalientes Area, Mexico
 
-_Type:_ Government statistics
+_Industry:_ Government statistics
 
 _Team size:_ 4 (including Developers, Team Leader)
  
@@ -134,7 +133,7 @@ _Team size:_ 4 (including Developers, Team Leader)
 **Asesori** | *www.asesori.com/*
 Apr 2007 - Feb 2009 | IT Coordinator / Web Developer | Onsite Aguascalientes Area, Mexico
 
-_Type:_ Marketing
+_Industry:_ Marketing
 
 _Team size:_ 3 (including Developers, IT coordinator)
  
@@ -145,7 +144,7 @@ _Team size:_ 3 (including Developers, IT coordinator)
 **Universidad Tecnologica de Aguascalientes** | *www.utags.edu.mx/*
 Jan 2002 - Jan 2005 | IT Management and web developer | Onsite Aguascalientes Area, Mexico
 
-_Type:_ Education
+_Industry:_ Education
 
 _Team size:_ 6 (including Desk Support, Web developer, Developer, IT coordinator)
  
@@ -158,11 +157,33 @@ _Team size:_ 6 (including Desk Support, Web developer, Developer, IT coordinator
 **ESCAPE Cybercafé** |
 Feb 1998 - Jun 2002 | Owner, Freelancer | Onsite Aguascalientes Area, Mexico
 
-_Type:_ Retail services
+_Industry:_ Retail services
 
 _Team size:_ 4
  
 - I established my own business to offer internet browsing services, computers and accessories selling etc..
+
+---
+
+## Achievements, Challenges, Problems
+
+- *During 2024-2025* 
+  - I re-wrote most of the existing code that does the work to copy files from an AWS S3 source from basic javascript and old AWS SDK to a newer version of Javascript AWS SDK, including making it more generic for easy integration with other code modules.
+  - The use of Github Copilot was a great help to quickly understand concepts of AWS services and implement Javascript AWS SDK code.
+  - It was a problem/challenge, the constant and everyday switch between support activities and development due to a lack of time to train a person or a team to tackle these. I proactively created wiki documentation on the fly during the development process which alleviated this greatly.
+  - The rapid accumulation of new features and fast development led to challenges in keeping the system properly tested and preventing breaking changes. A combination of scripts to consistently create accurate test input data, mock APIs to simulate the upstream systems' data, interactions, and automated tests, where key help with this even though all these took a good amount of effort I worked to write many of these scripts.
+- *From 2022 through 2025*
+  - I collaborated with layout of the new architecture, and re-implementation of an already existing Java-based system. 
+  - Moving from working with Java for a good amount of time to Node.js with no knowledge and with a sense of urgency was a challenge this time. I found that the leverage of self-taught and continuous technical talks with teammates and thorough code reviews helped me adopt this quickly.
+- *In 2015*
+  - I had the opportunity to lead the creation of a new development team (6 developers), where I played a part in interviewing the candidates and deciding who to join the new team. During the time together, this team sure faced challenges, but I can proudly say it performed really good.
+- *During 2014* 
+  - While working onsite on San Antonio Texas, I worked closely in collaboration with a team located in India were despite of challenges in the communication we were able to support and maintain an ETL system that needed continuous monitoring and execution to supply with current info to the web portal that the end user had access to, I played the role of onsite contact and developer to help the team solve questions, unblock issues, etc.
+- *From 2012 to 2013* 
+  - I was promoted to the application leader for the project I was working on. I had the opportunity to work closely with the client and played a part in leading the teamwork.
+- *Earlier Years*
+  - The experience of starting a small business was really satisfying, get a real feeling about what the challenges, problems, satisfactions are to keep something you build was quite an experience.
+- Certainly during my career I have had many satisfactions and also I went through many difficult situations, like (just to mention some) problems inside the company, stubborn team mates, lack of knowledge on my side, working behind schedule, need to make decisions with no clear certainty about the outcome, personal life changing events, you name it, I think that, every time I had to find a way either by resorting knowledge from previous experiences, find help, push myself to improve. I've found great people and friends along the way, I must say that I've learned faster by being close and collaborate with brilliant and smart people, at the same time I've found good learning while working with difficult people, definitely both types makes you thrive.
 
 ---
 
@@ -197,9 +218,13 @@ _Team size:_ 4
 
 ## More
 
-### Challenges, problems I've been through
+### Personal reflections
 
-TBD...
+In seek for improvement or find a quick way to adjust to this rapid change of the industry, and particularly when I think of my most recent experience where I, and the team that I'm part of, are called "System Integrators" where you're expected to touch and integrate different systems; or thinking about previous experience working with a given language or framework which is evolving to a newer versions and features so fast. Everytime I tried to find enough time, energy, focus to deeply understand and learn every new library, system, technology, framework or whatever is needed to accomodate for the "requirements", I've found myself facing a hard time to continue with the old ways about learning and specialization where, finding a good book, reading a good amount of wiki documentation, taking long training courses, etc. it seems that this is no longer working for me. For a good time now, I find myself (I have a strong impression that many people in the industry) trying to find shortcuts. Now, I realize that becoming a master or even get to have a deep knowledge in a given technology, language, system, framework, etc., is tricky. 
+
+What does it even mean to be a "master" these days? For how long can you be a master of something before it changes or becomes old?
+
+Well, for me so far, a combination of having the right tools, enough information, finding ways to solve problems, proactiveness, adaptability, and soft skills is a must, but _"adaptability"_ is what rings the most in my brain.
 
 ---
 
