@@ -9,6 +9,6 @@ plugins:
   - jekyll-remote-theme
 
 # Optional site settings that the theme can show
-logo: https://raw.githubusercontent.com/mvmags/resources/main/pics/Marco-photo-framed.png   # add when you have one
+logo: https://raw.githubusercontent.com/mvmags/resources/main/images/Marco-photo-framed.png   # add when you have one
 show_downloads: false
 google_analytics: G-DX96TSN3D3
