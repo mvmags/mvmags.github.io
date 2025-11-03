@@ -2,17 +2,15 @@
 layout: default
 ---
 
-<div style="width: 200px; margin: 0 auto;">
-  <img src="https://raw.githubusercontent.com/mvmags/resources/main/images/border1.png">
-</div>
-
 # Marco Velasco Martinez
 
 ---
 
 [marco.velasco@gmail.com](mailto:marco.velasco@gmail.com)
 
-[www.linkedin.com/in/marco-velascomartinez]([mailto:marco.velasco@gmail.com](https://www.linkedin.com/in/marco-velascomartinez))
+[www.linkedin.com/in/marco-velascomartinez](https://www.linkedin.com/in/marco-velascomartinez)
+
+[mvmags.github.io](https://mvmags.github.io/)
 
 United States / Mexico 
 
@@ -237,4 +235,10 @@ Healthcare, oncology, clinical reporting, Fintech, banking, loyalty, rewards, da
 </div>
 <div style="float: right;">
   <img src="https://raw.githubusercontent.com/mvmags/resources/main/images/java-cup-small.png">
+</div>
+<br>
+<div style="text-align: left;">
+  <a href="https://raw.githubusercontent.com/mvmags/resources/main/pdf/marco_velasco_martinez-summarized.pdf">
+  <img src="https://raw.githubusercontent.com/mvmags/resources/main/images/download-3.png">
+  </a>
 </div>
