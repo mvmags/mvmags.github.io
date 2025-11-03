@@ -85,9 +85,13 @@ _Industry:_ Loyalty Management Platform Provider
 
 _Team size:_ 8-9 (including Developers, Tester, Product Owner, Team Leader, Business Analyst, Architect)
  
-- I worked in a couple of projects related to the rewards management area. In these projects, primarily involved with technologies, APIs and frameworks like, JAX-WS, SOAP web services, JMS, JAXB, EJB, hibernate, PostgreSql, SQL server, Apache Camel, Spring-boot, spring batch, liquibase.
-- The activites I had for the first project (Kobie) where mainly Java software engineer, I joined a team that took care of the rewards system of the company to offer customer support, solve issues, maintain and add new features.
-- Then, I joined a team where several development and support teams were taking care of the client systems and I performed as a flexible engineer where I acted as a developer, scrum master, support as needed.
+Clients: Kobie Marketing, Maritz Rewards
+Industry: Loyalty Management Platform Provider
+Team size: 8-9 (including Developers, Tester, Product Owner, Team Leader, Business Analyst, Architect)
+
+- I worked on a couple of projects related to the rewards management area for clients located in the USA. In these projects, primarily involved with technologies, APIs and frameworks like, JAX-WS, SOAP web services, JMS, JAXB, EJB, hibernate, PostgreSql, SQL server, Apache Camel, Spring-boot, spring batch, liquibase.
+- The activities I had for the first project (Kobie) were mainly Java software engineer. I joined a team that took care of the rewards system of the company to offer customer support, solve issues, maintain, and add new features.
+- Then, I joined a team where several development and support teams were taking care of the client systems, and I performed several roles as a developer, scrum master, and support as needed.
 
 ---
 
@@ -100,7 +104,8 @@ _Industry:_ Banking
 
 _Team size:_ 6 (including Developers, Tester, Team Leader)
  
-- I performed as a Software developer and consultant for the USAA Bank, supporting, mantaining and adding features to their web portal which offers a variety of services and products such as, car buying service, consumer loans, investments, insurance, etc.
+- I performed as a Software developer and consultant for the USAA Bank, supporting, maintaining, and adding features to their web portal, which offers a variety of services and products such as car buying service, consumer loans, investments, insurance, etc.
+- I worked onsite in San Antonio, Texas, collaborating closely with a team located in India, where I performed as a software developer and point of contact to support problem resolution.
 
 ---
 
@@ -157,7 +162,6 @@ Feb 1998 - Jun 2002 | Owner, Freelancer | Onsite Aguascalientes Area, Mexico
 
 _Industry:_ Retail services
 
-_Team size:_ 4
  
 - I established my own business to offer internet browsing services, computers and accessories selling etc..
 
@@ -214,19 +218,21 @@ _Team size:_ 4
 
 ---
 
+### RECOMMENDATIONS
+
+[https://www.linkedin.com/in/marco-velascomartinez/details/recommendations](https://www.linkedin.com/in/marco-velascomartinez/details/recommendations)
+
+---
+
 ## More
 
 ### Personal reflections
 
 In seek for improvement or find a quick way to adjust to this rapid change of the industry, and particularly when I think of my most recent experience where I, and the team that I'm part of, are called "System Integrators" where you're expected to touch and integrate different systems; or thinking about previous experience working with a given language or framework which is evolving to a newer versions and features so fast. Everytime I tried to find enough time, energy, focus to deeply understand and learn every new library, system, technology, framework or whatever is needed to accomodate for the "requirements", I've found myself facing a hard time to continue with the old ways about learning and specialization where, finding a good book, reading a good amount of wiki documentation, taking long training courses, etc. it seems that this is no longer working for me. For a good time now, I find myself (I have a strong impression that many people in the industry) trying to find shortcuts. Now, I realize that becoming a master or even get to have a deep knowledge in a given technology, language, system, framework, etc., is tricky. 
 
-What does it even mean to be a "master" these days? For how long can you be a master of something before it changes or becomes old?
+What does it even mean to be a "master" these days? For how long can you be a master about something before it changes or becomes old?
 
-Well, for me so far, a combination of having the right tools, enough information, finding ways to solve problems, proactiveness, adaptability, and soft skills is a must, but _"adaptability"_ is what rings the most in my brain.
-
-### Recommendations
-
-[https://www.linkedin.com/in/marco-velascomartinez/details/recommendations](https://www.linkedin.com/in/marco-velascomartinez/details/recommendations)
+Well, for me so far, have to be a combination of finding the right tools, get enough information, finding ways to solve problems, proactiveness, adaptability, and soft skills is a must, but _"adaptability"_ is what rings the most in my brain.
 
 ---
 
