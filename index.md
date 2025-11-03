@@ -224,11 +224,11 @@ What does it even mean to be a "master" these days? For how long can you be a ma
 
 Well, for me so far, a combination of having the right tools, enough information, finding ways to solve problems, proactiveness, adaptability, and soft skills is a must, but _"adaptability"_ is what rings the most in my brain.
 
+### Recommendations
+
+[https://www.linkedin.com/in/marco-velascomartinez/details/recommendations](https://www.linkedin.com/in/marco-velascomartinez/details/recommendations)
+
 ---
-
-### Application Tracking System (ATS) keywords
-
-Healthcare, oncology, clinical reporting, Fintech, banking, loyalty, rewards, data integration, Kafka, Event-driven architecture, Node.js, Java, Spring Boot, AWS, ECS, CloudFormation, Docker, Jenkins, CI/CD, Apache Camel, PostgreSQL, PL/pgSQL — SQL Procedural Language, Logz.io, SonarQube, Javascript, Oracle SQL Server
 
 <div style="width: 200px; margin: 0 auto;">
   <img src="https://raw.githubusercontent.com/mvmags/resources/main/images/border1.png">
