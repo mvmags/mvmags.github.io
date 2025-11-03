@@ -208,6 +208,8 @@ _Industry:_ Retail services
 
 **AWS Certification recommended:** Developer (in progress)
 
+[https://www.linkedin.com/in/marco-velascomartinez/details/certifications/](https://www.linkedin.com/in/marco-velascomartinez/details/certifications/)
+
 ---
 
 ### LANGUAGES
