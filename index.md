@@ -25,7 +25,7 @@ During my career, the projects that I have worked with are related to the indust
 
 ## Technical skills
 
-**Programming Languages**: Java, JavaScript (Node.js), TypeScript, SQL
+**Programming Languages**: Java, JavaScript (Node.js), SQL
 
 **Frameworks:** Spring Boot, Express.js, Apache Camel, Hibernate
 
