@@ -17,7 +17,7 @@ United States / Mexico
 
 ---
 
-Senior Software Engineer with 15+ years of experience implementing and delivering software solutions in the healthcare, fintech, and other fields. Lately focused on Node.js, and some AWS services. Experience during my career working with Java, building distributed data pipelines, microservices, and CI/CD automation; proven success working remotely among a distributed agile team. During my career, I’ve used multiple technologies, with varying levels of proficiency and understanding, which I list next.
+Software Engineer with 15+ years of experience implementing and delivering software solutions in the healthcare, fintech, and other fields. Lately focused on Node.js, and some AWS services. Experience during my career working with Java, building distributed data pipelines, microservices, and CI/CD automation; proven success working remotely among a distributed agile team. During my career, I’ve used multiple technologies, with varying levels of proficiency and understanding, which I list next.
 
 ## Industry focus
 
@@ -27,9 +27,9 @@ During my career, the projects that I have worked with are related to the indust
 
 **Programming Languages**: Java, JavaScript (Node.js), SQL
 
-**Frameworks:** Spring Boot, Express.js, Apache Camel, Hibernate
+**Frameworks:** Spring Boot, Apache Camel, Hibernate
 
-**Cloud & DevOps:** AWS (ECS, S3, Lambda, CloudFormation), Docker, Jenkins, Kafka
+**Cloud & DevOps:** AWS (ECS, S3, CloudFormation), Docker, Jenkins, Kafka
 
 **Databases:** PostgreSQL, SQL Server, Oracle, MySQL
 
@@ -39,7 +39,7 @@ During my career, the projects that I have worked with are related to the indust
 
 ## A little bit about myself
 
-I'm a Mexican native. Currently, I reside and work in the United States. I started early with the world of computers during middle school time when a door to door salesman knocked out at our house door to sell a brand new course about how to use computers and devices, I got immediately interested on it and for sure I got enrolled in the course, it turned out to be a a very basic course basically to learn how to properly type in the keyboard and use some applications, and also learn to make use of the scanner (which to be honest it was the most interest part of the course), from then on I continued to get involved in learning everything I could about computers, languages, during middle school and high school I learned to code in Fox Pro, Turbo Pascal, Borland Pascal, started to understand concepts of databases with Microsoft Access and apps related. During my University time, I gained interest in learning about networks, while at the same time learning, I'd say old languages like Assembly Language, and then I started to learn how to code in Java, until the internet disrupted everything.
+I'm a Mexican native who currently reside and work in the United States. I started early with the world of computers during middle school time when a door to door salesman knocked out at our house door to sell a brand new course about how to use computers and devices, I got immediately interested on it and for sure I got enrolled in the course, it turned out to be a a very basic course basically to learn how to properly type in the keyboard and use some applications, and also learn to make use of the scanner (which to be honest it was the most interest part of the course), from then on I continued to get involved in learning everything I could about computers, languages, during middle school and high school I learned to code in Fox Pro, Turbo Pascal, Borland Pascal, started to understand concepts of databases with Microsoft Access and apps related. During my University time, I gained interest in learning about networks, while at the same time learning, I'd say old languages like Assembly Language, and then I started to learn how to code in Java, until the internet disrupted everything.
 
 While studying at the college, I started my own business (Internet Cafe) along with my sister and a cousin. We sold devices and assembled computers (we bought parts separately and assembled them into a new computer). During my early jobs, I had roles like business owner, desk support, developer, web developer, along with a family side that dragged me into playing roles in the family business of restaurant, agriculture, and others.
 
