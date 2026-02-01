@@ -7,10 +7,10 @@ layout: default
 
 ---
 
-[marco.velasco@gmail.com](mailto:marco.velasco@gmail.com)<br/>
-[www.linkedin.com/in/marco-velascomartinez](https://www.linkedin.com/in/marco-velascomartinez)<br/>
-[mvmags.github.io](https://mvmags.github.io/)<br/>
-United States / Mexico 
+º [marco.velasco@gmail.com](mailto:marco.velasco@gmail.com)<br/>
+º [www.linkedin.com/in/marco-velascomartinez](https://www.linkedin.com/in/marco-velascomartinez)<br/>
+º [mvmags.github.io](https://mvmags.github.io/)<br/>
+º United States / Mexico 
 
 
 ---
@@ -50,7 +50,7 @@ _Team size:_ 6-7 (including Developers, Tester, Product Owner, Technical Leader)
 ---
 
 **Unosquare** | *www.unosquare.com/*
-Sep 2019 - May 2022 | _Java Software Engineer_ | Remote Consultant Guadalajara Area, Mexico
+Sep 2019 - May 2022 | _Java Software Engineer_ | Full Remote Guadalajara Area, Mexico
 
 _Client:_ Foundation Medicine
 
@@ -65,7 +65,7 @@ _Team size:_ 6-7 (including Developers, Testers, Product Owner, Technical leader
 ---
 
 **Softtek** | *www.softtek.com/*
-Aug 2016 - Sep 2019 | Java Software Engineer | Consultant Aguascalientes Area, Mexico / St. Petersburg FL. USA.
+Aug 2016 - Sep 2019 | Java Software Engineer | Aguascalientes, Mexico / St. Petersburg FL. USA.
 
 _Clients:_ Kobie Marketing, Maritz Rewards
 
@@ -84,7 +84,7 @@ Team size: 8-9 (including Developers, Tester, Product Owner, Team Leader, Busine
 ---
 
 **Tata Consultancy Services** | *www.tcs.com/*
-May 2013 - Aug 2016 | Java Software Developer | Consultant Guadalajara Area, Mexico / Onsite San Antonio, Texas
+May 2013 - Aug 2016 | Java Software Developer | Guadalajara Area, Mexico / Onsite San Antonio, Texas
 
 _Client:_ USAA Bank
 
@@ -98,7 +98,7 @@ _Team size:_ 6 (including Developers, Tester, Team Leader)
 ---
 
 **Softtek** | *www.softtek.com/*
-Jul 2010 - May 2013 | Java Application Developer | Consultant Aguascalientes Area, Mexico
+Jul 2010 - May 2013 | Java Application Developer | Aguascalientes Area, Mexico
 
 _Client:_ General Electric Corporate
 
@@ -111,7 +111,7 @@ _Team size:_ 6 (including Developers, Tester, Team Leader)
 ---
 
 **INEGI** | *www.inegi.org.mx/*
-Feb 2009 - Jul 2010 | Software Developer | Onsite Aguascalientes Area, Mexico
+Feb 2009 - Jul 2010 | Software Developer | Aguascalientes Area, Mexico
 
 _Industry:_ Government statistics
 
@@ -122,7 +122,7 @@ _Team size:_ 4 (including Developers, Team Leader)
 ---
 
 **Asesori** | *www.asesori.com/*
-Apr 2007 - Feb 2009 | IT Coordinator / Web Developer | Onsite Aguascalientes Area, Mexico
+Apr 2007 - Feb 2009 | IT Coordinator / Web Developer | Aguascalientes Area, Mexico
 
 _Industry:_ Marketing
 
@@ -133,7 +133,7 @@ _Team size:_ 3 (including Developers, IT coordinator)
 ---
 
 **Universidad Tecnologica de Aguascalientes** | *www.utags.edu.mx/*
-Jan 2002 - Jan 2005 | IT Management and web developer | Onsite Aguascalientes Area, Mexico
+Jan 2002 - Jan 2005 | IT Management and web developer | Aguascalientes Area, Mexico
 
 _Industry:_ Education
 
@@ -146,7 +146,7 @@ _Team size:_ 6 (including Desk Support, Web developer, Developer, IT coordinator
 ---
 
 **ESCAPE Cybercafé** |
-Feb 1998 - Jun 2002 | Owner, Freelancer | Onsite Aguascalientes Area, Mexico
+Feb 1998 - Jun 2002 | Owner, Freelancer | Aguascalientes Area, Mexico
 
 _Industry:_ Retail services
 
