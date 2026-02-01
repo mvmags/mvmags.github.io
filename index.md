@@ -1,5 +1,6 @@
-    ---
+---
 layout: default
+
 ---
 
 # Marco Velasco Martinez
@@ -34,15 +35,6 @@ During my career, the projects that I have worked with are related to the indust
 **Databases:** PostgreSQL, SQL Server, Oracle, MySQL
 **Methodologies:** Agile/Scrum, CI/CD, Microservices, Event-Driven Architecture
 
----
-
-## A little bit about myself
-
-I'm a Mexican native who currently reside and work in the United States. I started early with the world of computers during middle school time when a door to door salesman knocked out at our house door to sell a brand new course about how to use computers and devices, I got immediately interested on it and for sure I got enrolled in the course, it turned out to be a a very basic course basically to learn how to properly type in the keyboard and use some applications, and also learn to make use of the scanner (which to be honest it was the most interest part of the course), from then on I continued to get involved in learning everything I could about computers, languages, during middle school and high school I learned to code in Fox Pro, Turbo Pascal, Borland Pascal, started to understand concepts of databases with Microsoft Access and apps related. During my University time, I gained interest in learning about networks, while at the same time learning, I'd say old languages like Assembly Language, and then I started to learn how to code in Java, until the internet disrupted everything.
-
-While studying at the college, I started my own business (Internet Cafe) along with my sister and a cousin. We sold devices and assembled computers (we bought parts separately and assembled them into a new computer). During my early jobs, I had roles like business owner, desk support, developer, web developer, along with a family side that dragged me into playing roles in the family business of restaurant, agriculture, and others.
-
-After finishing college, I moved to a new job, which marked the start of my formal journey as a developer. I have had the opportunity to gain experience developing, implementing, and delivering enterprise solutions, including cloud-based solutions across healthcare, fintech, and analytics domains, lately focused on Node.js, Java, and the AWS ecosystem, with proven success working remotely in agile teams for Fortune 500 clients.
 
 ## PROFESIONAL EXPERIENCE
 
@@ -222,18 +214,6 @@ _Industry:_ Retail services
 ### RECOMMENDATIONS
 
 [https://www.linkedin.com/in/marco-velascomartinez/details/recommendations](https://www.linkedin.com/in/marco-velascomartinez/details/recommendations)
-
----
-
-## More
-
-### Personal reflections
-
-In seek for improvement or find a quick way to adjust to this rapid change of the industry, and particularly when I think of my most recent experience where I, and the team that I'm part of, are called "System Integrators" where you're expected to touch and integrate different systems; or thinking about previous experience working with a given language or framework which is evolving to a newer versions and features so fast. Everytime I tried to find enough time, energy, focus to deeply understand and learn every new library, system, technology, framework or whatever is needed to accomodate for the "requirements", I've found myself facing a hard time to continue with the old ways about learning and specialization where, finding a good book, reading a good amount of wiki documentation, taking long training courses, etc. it seems that this is no longer working for me. For a good time now, I find myself (I have a strong impression that many people in the industry) trying to find shortcuts. Now, I realize that becoming a master or even get to have a deep knowledge in a given technology, language, system, framework, etc., is tricky. 
-
-What does it even mean to be a "master" these days? For how long can you be a master about something before it changes or becomes old?
-
-Well, for me so far, have to be a combination of finding the right tools, get enough information, finding ways to solve problems, proactiveness, adaptability, and soft skills is a must, but _"adaptability"_ is what rings the most in my brain.
 
 ---
 
