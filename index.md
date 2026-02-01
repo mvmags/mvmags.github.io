@@ -7,9 +7,9 @@ layout: default
 
 ---
 
-[marco.velasco@gmail.com](mailto:marco.velasco@gmail.com)
-[www.linkedin.com/in/marco-velascomartinez](https://www.linkedin.com/in/marco-velascomartinez)
-[mvmags.github.io](https://mvmags.github.io/)
+[marco.velasco@gmail.com](mailto:marco.velasco@gmail.com)<br/>
+[www.linkedin.com/in/marco-velascomartinez](https://www.linkedin.com/in/marco-velascomartinez)<br/>
+[mvmags.github.io](https://mvmags.github.io/)<br/>
 United States / Mexico 
 
 
